@@ -1,4 +1,10 @@
-# flutter_application_2
+# flutter_application_2 #deepin音乐（iOS&Android）
+
+#第一次部署自己的接口：https://www.deepinmusicapp.tk（Node.js）
+
+#这是自学Flutter半年的一点成果，目前到网络请求部分，更高阶的状态管理和音频播放模块还没学到，目前deepin音乐这个项目只完成60%左右
+
+#目前请求的数据接口只有网易云音乐一个，后续会考虑加入登录功能或者歌单导入功能（不登录）
 
 A new Flutter project.
 
